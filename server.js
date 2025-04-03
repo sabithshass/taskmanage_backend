@@ -17,7 +17,7 @@ app.use(morgan("dev"));
 app.use("/api/tasks", taskRoutes);
 
 app.get('/', (req, res) => {
-    res.send('API is running...');
+    res.send('API is running....');
   });
   
 
