@@ -11,4 +11,3 @@ out/
 
 # Ignore environment-specific files
 .env
-.env.*
